@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import CurrencyConverter from '..assessment1./assessment1/ass';
+import CurrencyConverter from '...assessment1/..assessment1/.assessment1/ass';
 
 const App = () => {
   return (
